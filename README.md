@@ -206,4 +206,14 @@ docker-compose up -d
 ---
 ## Actividades Encargadas
 1. Escribir el código necesrio para completar los controladores para las clases Cliente y ClientesDocumento.
+   Al terminar de configurar el desarrollo de este laboratorio consegui ingresar al swagger de mi pagina:
+   <img width="662" height="639" alt="image" src="https://github.com/user-attachments/assets/b35ce79e-805d-4e8e-8c7b-e849d9fc9cba" />
+   Ahora voy a generar los controladores para las clases Cliente y ClienteDocumento:
+   para la clase cliente:
+   <img width="495" height="431" alt="image" src="https://github.com/user-attachments/assets/15690bda-63d0-4693-93c2-853625f469d9" />
+  para la clase clienteDocumento
+  <img width="483" height="366" alt="image" src="https://github.com/user-attachments/assets/7bee2f01-3c92-4579-8064-a06939cff236" />
+Ahora para confirmar que si se generaron los dos controladores vamos a la pagina donde esta corriendo el swagger y lo refrescamos, ahi comprobamos que si se crearon
+   <img width="647" height="681" alt="image" src="https://github.com/user-attachments/assets/88d7adc2-76dd-4f0a-a245-037836ff001a" />
+
 
